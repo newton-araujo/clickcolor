@@ -9,3 +9,4 @@ Neste projeto, criamos uma página web simples que permite aos usuários clicar 
 </ol>
 
 <h2>Testo o projeto</h2>
+https://newton-araujo.github.io/clickcolor/
